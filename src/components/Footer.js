@@ -25,6 +25,7 @@ const Footer = class extends React.Component {
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
+                      <h1>Helllo</h1>
                       <Link to="/" className="navbar-item">
                         Home
                       </Link>
